@@ -6,5 +6,4 @@ function sayhello66() {
 
 function someone(x) {
     who66 = x;
-    alert(who66);
 }
