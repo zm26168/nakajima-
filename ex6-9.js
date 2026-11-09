@@ -1,9 +1,3 @@
-function spring69() {
-    document.getElementById('image69').innerHTML =
-    '<img src="spring.jpg" width="300">';
-}
-
-function summer69() {
-    document.getElementById('image69').innerHTML =
-    '<img src="summer.jpg" width="300">';
-}
+function JOSAI 2() {document.getElementById('who610').innerHTML=
+'<img src="./image/bulbon.gif" alt="オン">’
+;}
